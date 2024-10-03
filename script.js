@@ -1,12 +1,12 @@
 // Product data (as an example)
 const products = [
-    { id: 1, name: "Product 1", image: "images/product1.jpg", price: "$50" },
-    { id: 2, name: "Product 2", image: "images/product2.jpg", price: "$75" },
-    { id: 3, name: "Product 3", image: "images/product3.jpg", price: "$60" },
-    { id: 4, name: "Product 4", image: "images/product4.jpg", price: "$40" },
-    { id: 4, name: "Product 5", image: "images/product5.jpg", price: "$40" },
-    { id: 4, name: "Product 6", image: "images/product6.jpg", price: "$40" },
-    { id: 4, name: "Product 7", image: "images/product7.jpg", price: "$40" }
+    { id: 1, name: "Product 1", image: "product1.jpg", price: "$50" },
+    { id: 2, name: "Product 2", image: "product2.jpg", price: "$75" },
+    { id: 3, name: "Product 3", image: "product3.jpg", price: "$60" },
+    { id: 4, name: "Product 4", image: "product4.jpg", price: "$40" },
+    { id: 4, name: "Product 5", image: "product5.jpg", price: "$40" },
+    { id: 4, name: "Product 6", image: "product6.jpg", price: "$40" },
+    { id: 4, name: "Product 7", image: "product7.jpg", price: "$40" }
 ];
 
 let cart = [];
